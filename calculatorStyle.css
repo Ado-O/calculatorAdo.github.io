@@ -1,0 +1,55 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    max-height: 100%;
+    max-width: 100%;
+    background-image: url(https://wallpaperscraft.com/image/board_black_line_texture_background_wood_55220_1920x1080.jpg);
+}
+
+
+/* digitron output */
+
+#calcOutput {
+    background-color: white;
+    width: 250px;
+    height: 65px;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    padding-top: 10px;
+}
+
+
+/* digitron */
+
+#calculator {
+    background-color: #abb5aa;
+    width: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/* nula */
+
+#steps {
+    padding-left: 50px;
+    font-size: 2em;
+}
+
+.bigButton {
+    width: 93px;
+}
+
+a {
+    margin: 7px;
+    width: 2.6vw;
+    height: 2.6vw;
+}
